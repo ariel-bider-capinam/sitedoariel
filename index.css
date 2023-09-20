@@ -1,0 +1,53 @@
+body{
+    background-color:darkolivegreen;
+  font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 25px 35px 45px;
+   ;
+    .fonte1{
+        color:whitesmoke;
+    }
+    .fonte2{
+        color:black;
+    }
+    .fonte3{
+        color:whitesmoke;
+    }
+    .fonte4{
+        color:whitesmoke;
+    }
+    .fonte5{
+        color:whitesmoke
+    }
+    .fonte6{
+        color:whitesmoke
+    }
+    .fonte7{
+
+        color:whitesmoke
+    }
+    .fonte8{
+        color:whitesmoke
+    }
+    .fonte9{
+        color:whitesmoke
+    }
+    .fonte10{
+        color:whitesmoke
+    }
+    .fonte11{
+        color:whitesmoke
+    }
+    .fonte12{
+        color: whitesmoke
+    }
+    .fonte13{
+        color: aliceblue;
+    }
+}
+h1{
+    text-align: center;
+    color: whitesmoke
+}
+img{
+    width: 250px;
+}
